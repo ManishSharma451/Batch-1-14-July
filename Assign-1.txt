@@ -1,0 +1,24 @@
+
+1.) console.log() 
+
+The console is useful for testing purposes.The console.log() is a function in JavaScript which is used to print any kind of variables defined before in it or to just print any message that needs to be displayed to the user.
+       eg:  <script>
+                  var name = { firsname : "Lets", lastname : "Upgrade" };
+                  console.log(name);
+              </script>
+
+2.) console.err() 
+
+The console.error() method writes an error message to the console.The console is useful for testing purposes.
+        eg:  <script>
+                   var name = { firsname : "Lets", lastname : "Upgrade" };
+                   console.error(name);
+               </script>
+
+3.) console.warn()
+
+This method accepts single parameter message which is mandatory. This parameter is used to hold the warning message.The console.warn() method is used to write a warning message in the console. By opening the console we can see the output (warning message).
+
+       eg:     <script> 
+                  console.warn ("This is a warning message!!"); 
+                 </script> 
